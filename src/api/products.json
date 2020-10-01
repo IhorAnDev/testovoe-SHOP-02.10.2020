@@ -1,0 +1,5 @@
+[
+  {"id": 1, "title": "Банан", "price": 10, "inventory": 1000},
+  {"id": 2, "title": "Яблоко", "price": 8, "inventory": 1000},
+  {"id": 3, "title": "Папайя", "price": 10, "inventory": 1000}
+]
